@@ -1,6 +1,5 @@
 # reto_tecnico
-/**
- autor: Eduardo olivares borja
+/** autor: Eduardo olivares borja
  *El programa consiste en un concurso de preguntas cada pregunta tiene un valor de 1 pto.  
  * Al correr el codigo tienes que escoger un nivel de dificultad para empezar a jugar.   
  * Cada nivel de dificulta consta de 5 niveles al momento de contestar las preguntas correctamente subiras de nivel,
